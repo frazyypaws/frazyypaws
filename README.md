@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## hai! i'm frazyy
+### i'm a game developer and a content creator!
+#### i usually make games on roblox but i've worked in unreal engine and unity before
 <!--
 **frazyypaws/frazyypaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
